@@ -1,0 +1,167 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\HoangThai\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.5\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\HoangThai\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.5\\variants\\esp32c3"
+  },
+  {
+    "Sourcefile": "C:\\Users\\HoangThai\\AppData\\Local\\Temp\\arduino\\sketches\\84F4BF57B0881CD1AD567AD5877E2929\\sketch\\ledTxZorro.ino.cpp",
+    "Include": "NeoPixelBus.h",
+    "Includepath": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\HoangThai\\AppData\\Local\\Temp\\arduino\\sketches\\84F4BF57B0881CD1AD567AD5877E2929\\sketch\\ledTxZorro.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\HoangThai\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.5\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\HoangThai\\AppData\\Local\\Temp\\arduino\\sketches\\84F4BF57B0881CD1AD567AD5877E2929\\sketch\\ledTxZorro.ino.cpp",
+    "Include": "Preferences.h",
+    "Includepath": "C:\\Users\\HoangThai\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.5\\libraries\\Preferences\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\HoangThai\\AppData\\Local\\Temp\\arduino\\sketches\\84F4BF57B0881CD1AD567AD5877E2929\\sketch\\ledTxZorro.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\animations\\NeoPixelAnimator.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\colors\\HsbColor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\colors\\HslColor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\colors\\HtmlColor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\colors\\HtmlColorNameStrings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\colors\\HtmlColorNames.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\colors\\HtmlColorShortNames.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\colors\\NeoGammaDynamicTableMethod.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\colors\\NeoGammaTableMethod.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\colors\\Rgb48Color.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\colors\\RgbColor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\colors\\RgbColorBase.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\colors\\Rgbw64Color.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\colors\\RgbwColor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\colors\\Rgbww80Color.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\colors\\RgbwwColor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\colors\\RgbwwwColor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\colors\\SegmentDigit.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\methods\\Esp32_i2s.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\methods\\NeoEsp32RmtMethod.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\methods\\NeoEsp8266I2sMethodCore.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\methods\\NeoEsp8266UartMethod.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\methods\\NeoEspBitBangMethod.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\methods\\NeoPixelAvr.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\HoangThai\\Documents\\Arduino\\libraries\\NeoPixelBus_by_Makuna\\src\\internal\\methods\\Rp2040\\NeoRp2040PioMonoProgram.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\HoangThai\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.5\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\HoangThai\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.5\\libraries\\Preferences\\src\\Preferences.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
